@@ -1,0 +1,32 @@
+.details{
+    background-color: coral;
+    color: white;
+}
+
+.Objective{
+    background-color:gold;
+    color:white;
+    
+}
+
+
+
+.Education{
+    background-color: deeppink;
+    color: white;
+}
+
+.education{
+    background-color: darkviolet;
+    color: black;
+}
+.skills{
+    background-color: darkred;
+    color: white;
+    font-style: normal;
+}
+.declaration{
+    background-color: darksalmon;
+    color: white;
+    
+}
